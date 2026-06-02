@@ -5,7 +5,7 @@ resolved = true
 skip-lint = false
 
 [programs.localnet]
-hello = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+hello = "AZutZ4iRx3fX86bU4gGEkxLbQGFPxj6ZQuEDokvTxVjM"
 
 [registry]
 url = "https://api.apr.dev"
